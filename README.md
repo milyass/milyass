@@ -15,6 +15,8 @@
 - 🌱 I’m currently improving my skills
 - 👨🏽‍💻 I’m currently studying at  [1337 School](https://1337.ma)
 - 📫 How to reach me @ m.ilyassdev@gmail.com
-  [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&login=milyass)](https://github.com/milyass)
 - [![Twitter: imthepk](https://img.shields.io/twitter/follow/han722s?style=social)](https://twitter.com/han722s)
 - [![Linkedin: imthepk](https://img.shields.io/badge/-milyass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-ilyass/)](https://www.linkedin.com/in/m-ilyass/)
+  </br>
+[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&login=milyass)](https://github.com/milyass)
+
