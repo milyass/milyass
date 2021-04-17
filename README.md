@@ -17,4 +17,4 @@
 - 📫 How to reach me @ m.ilyassdev@gmail.com
 - [![Twitter: imthepk](https://img.shields.io/twitter/follow/han722s?style=social)](https://twitter.com/han722s)
 - [![Linkedin: imthepk](https://img.shields.io/badge/-milyass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-ilyass/)](https://www.linkedin.com/in/m-ilyass/)
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&login=milyass)](https://github.com/milyass)
+- [![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&login=milyass)](https://github.com/milyass)
