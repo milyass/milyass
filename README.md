@@ -1,5 +1,9 @@
 <h1>👋  Hi, I’m Ilyass</h1>
 <p>Welcome to my GitHub! </br> I'm a Fullstack Web Developer.
+
+[![milyass's 42 stats](https://badge.mediaplus.ma/black/milyass)](https://github.com/oakoudad/badge42)
+
+
 <h3>Tech I Use </h3>
 <p>
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
@@ -18,5 +22,5 @@
 - [![Twitter: imthepk](https://img.shields.io/twitter/follow/han722s?style=social)](https://twitter.com/han722s)
 - [![Linkedin: imthepk](https://img.shields.io/badge/-milyass-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/m-ilyass/)](https://www.linkedin.com/in/m-ilyass/)
   </br>
-[![42 Profile Card](https://1337-readme.vercel.app/api/profile?cursus=42&email=hide&login=milyass)](https://github.com/milyass)
+
 
